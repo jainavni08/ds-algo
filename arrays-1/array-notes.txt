@@ -1,0 +1,10 @@
+two sum :target - num and use hashmap to find element , hashmap store with index
+
+three sum :sort array , fixed i, two pointers one at last and one next to i . reduce 2nd pointer if sum < target and inc 1 pointer if sum > target.
+
+max sum product : if neg max = (curr,min , min = min(curr,min) if pos max(curr,max)
+
+sort0-1-2 : count no of zero and one . rewrite on given arrau zeros,one,twos
+
+containsduplicate with k range : use hash set for fast checking ; also remove elemets once out of k range;
+

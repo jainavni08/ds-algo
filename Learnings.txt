@@ -1,0 +1,7 @@
+Learnings
+
+1.use HashMap or Hash Sets for faster checking for elements in array.
+
+2.sorting when given a fixed type of elements . them count quantity of each elements and rewrite in array.
+
+3.
